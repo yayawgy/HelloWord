@@ -13,6 +13,10 @@ public class PageController {
 
     @RequestMapping("/hello")
     public String actionTest(){
+
+
+
+
         return "hello word !!!";
     }
 
